@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical 12</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="enter_messages">Enter Messages</string>
+    <string name="textview">TextView</string>
+</resources>
